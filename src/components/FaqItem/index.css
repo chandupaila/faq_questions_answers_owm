@@ -1,0 +1,39 @@
+* {
+  font-family: roboto;
+}
+
+.list {
+  border: 1px solid #d7dae6;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  padding: 20px;
+  width: 100%;
+}
+
+.question {
+  color: #52606d;
+  font-size: larger;
+}
+
+.question-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+}
+
+.image {
+  width: 20px;
+  height: 20px;
+}
+
+.answer {
+  color: #9aa5b1;
+  margin-top: 20px;
+  font-size: 15px;
+}

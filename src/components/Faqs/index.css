@@ -1,0 +1,32 @@
+.bg-container {
+  background-color: #f1f5f8;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+* {
+  font-family: roboto;
+}
+
+.unOrder {
+  background-color: #ffffff;
+  width: 60%;
+  min-height: 70vh;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.u-list {
+  list-style-type: none;
+  padding: 20px;
+  width: 100%;
+}
+
+.heading {
+  color: #cb8805;
+  margin-top: 30px;
+}
